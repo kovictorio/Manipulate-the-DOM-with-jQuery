@@ -1,0 +1,30 @@
+article{
+    font-size: 18px;
+  }
+  
+  h1{
+    color: red;
+    font-family: 'Arvo', serif;
+  }
+  h2{
+    color: purple;
+    font-family: 'Arvo', serif;
+  }
+  p{
+    width: 450px;
+    text-align: left;
+  }
+  ol{
+    list-style-type: upper-roman;
+  }
+  .pink {
+    text-decoration: underline;
+    color:  #C31694;
+  }
+  .black {
+    text-decoration: underline;
+    color: black;
+  }
+  .bold {
+    font-weight: bold;
+  }
